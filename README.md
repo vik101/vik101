@@ -14,9 +14,9 @@ Run several coding agents in parallel, each in its own git worktree, each in its
 
 ```
  ┌──────────────────────────┬───────────────┐
- │                          │   lazygit      │
+ │                          │   lazygit     │
  │   claude  (50%)          ├───────────────┤
- │                          │   yazi         │
+ │                          │   yazi        │
  └──────────────────────────┴───────────────┘
         window/tab name = the worktree
 ```
