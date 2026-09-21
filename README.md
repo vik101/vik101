@@ -29,7 +29,7 @@ I use it daily in Ghostty with Claude Code. It exists because I kept running thr
 
 ## Stack
 
-TypeScript, React, Electron, Java, Node. AWS. Claude Code, Cursor, tmux.
+Python, TypeScript, React, Electron, Java, Node. AWS. Claude Code, Cursor, tmux.
 
 ## Elsewhere
 
