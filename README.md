@@ -2,9 +2,9 @@
 
 Software engineer in London. I build the platforms other people work on top of.
 
-**Now:** Head of Deployed Engineering at [Sammy Labs](https://www.sammylabs.com) (YC). I lead the team that takes a signed customer from contract to live: on-site onboarding, integration with whatever legacy system they actually run, and the firefighting in between.
+**Before:** Head of Deployed Engineering at [Sammy Labs](https://www.sammylabs.com) (YC). I led the team that takes a signed customer from contract to live: on-site onboarding, integration with whatever legacy system they actually run, and the firefighting in between.
 
-**Before:** Technical lead on **Spectrum** at JPMorgan Asset Management, the Electron desktop platform that 9,000+ employees open every morning. Rebuilt it from a .NET app that took minutes to load into one that takes seconds. Owned time-to-first-paint, the Bridge API for inter-app communication, cross-monitor drag and drop, and the first AI features inside it. Earlier: first graduate cohort at King, where I built the tooling that shipped Candy Crush into 50+ languages. BEng Computing, Imperial College London.
+**Before:** Technical lead on **Spectrum** at JPMorgan Asset Management, the Electron desktop platform.
 
 ## What I'm building in public
 
@@ -26,10 +26,6 @@ Run several coding agents in parallel, each in its own git worktree, each in its
 - Archive, don't delete. Branch and notes survive, anything restores.
 
 I use it daily in Ghostty with Claude Code. It exists because I kept running three agents in one checkout and watching them trample each other.
-
-### [skinai](https://github.com/vik101/skinai)
-
-Skiniq: an AI dermatologist for men. Face scan via Haut.AI, personalised routine, PDF report to your inbox. A solo product from research to pricing to code.
 
 ## Stack
 
